@@ -4,16 +4,6 @@
   <img src="assets/mad-neon.gif" alt="Animated neon MAD graphic" width="480" />
 </p>
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gusmadd/gusmadd/output/github-contribution-grid-snake.svg" alt="Animated snake game on my GitHub contribution graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gusmadd&style=flat-square&color=blue" alt="Profile Views" />
-  <a href="https://github.com/gusmadd"><img src="https://img.shields.io/badge/GitHub-gusmadd-black?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="https://madpakku.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-Portfolio-fa5c5c?style=flat-square&logo=itch.io" alt="Itch.io" /></a>
-</p>
 
 ---
 
@@ -47,4 +37,16 @@ Check out some of the games I've built:
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gusmadd&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+### 🐍 Contribution Years
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gusmadd/gusmadd/output/github-contribution-grid-snake.svg" alt="Animated snake game on my GitHub contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gusmadd&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://github.com/gusmadd"><img src="https://img.shields.io/badge/GitHub-gusmadd-black?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://madpakku.itch.io" target="_blank"><img src="https://img.shields.io/badge/Itch.io-Portfolio-fa5c5c?style=flat-square&logo=itch.io" alt="Itch.io" /></a>
 </p>

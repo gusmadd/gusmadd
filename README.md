@@ -31,13 +31,56 @@
 ---
 
 ### 🎮 Featured Game Projects
-Check out some of the games I've built:
-- **TTT: Never Late Go to School** – *A 3D parkour platformer game with a comedic Flat Cartoon / Cel-shaded art style.*
-- **Reckless Order** – *A stealth simulation game helping Mr. Pickle shop online without getting caught by Big Sis.*
-- **PAK-MAD** – *A 2D game inspired by Pac-Man with customized mechanics and items.*
-- **Typeuran** – *A fast-paced typing game themed around restaurant work pressure.*
+Take a look at some of my games:
 
-👉 *Play and check more projects on my [Itch.io Page](https://madpakku.itch.io)!*
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://paganisium.itch.io/ttt-never-late-go-to-school">
+        <img src="https://img.itch.zone/aW1nLzI4MjY4Nzk0LnBuZw==/315x250%23c/yH%2BpFn.png" alt="TTT: Never Late Go to School cover" width="100%" />
+      </a>
+      <br />
+      <strong>TTT: Never Late Go to School</strong><br />
+      <em>3D Parkour Platformer</em><br />
+      Run, wall-run, and stomp your way through school before the gates close.<br />
+      <a href="https://paganisium.itch.io/ttt-never-late-go-to-school">Play on itch.io →</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://viscated.itch.io/reckless-order">
+        <img src="https://img.itch.zone/aW1nLzI3NjUxNjIxLnBuZw==/315x250%23c/KGrEPG.png" alt="Reckless Order cover" width="100%" />
+      </a>
+      <br />
+      <strong>Reckless Order</strong><br />
+      <em>Stealth Simulation</em><br />
+      Help Mr. Pickle order online without getting caught by Big Sis.<br />
+      <a href="https://viscated.itch.io/reckless-order">Play on itch.io →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://madpakku.itch.io/pak-mad">
+        <img src="https://img.itch.zone/aW1nLzI0MTg5MTQ3LnBuZw==/315x250%23c/JGOeCG.png" alt="PAK-MAD cover" width="100%" />
+      </a>
+      <br />
+      <strong>PAK-MAD</strong><br />
+      <em>2D Arcade</em><br />
+      Help Mad, an astronaut, escape swarming ghosts in space.<br />
+      <a href="https://madpakku.itch.io/pak-mad">Play on itch.io →</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://norifumiii.itch.io/typeuran">
+        <img src="https://img.itch.zone/aW1nLzIyNDk3MzUxLnBuZw==/315x250%23c/JDZs4%2F.png" alt="Typeuran cover" width="100%" />
+      </a>
+      <br />
+      <strong>Typeuran</strong><br />
+      <em>Typing / Survival</em><br />
+      Type customer orders quickly to keep the restaurant running.<br />
+      <a href="https://norifumiii.itch.io/typeuran">Play on itch.io →</a>
+    </td>
+  </tr>
+</table>
+
+👉 *Discover more projects on my [Itch.io page](https://madpakku.itch.io)!*
 ---
 
 ### 📊 GitHub Stats

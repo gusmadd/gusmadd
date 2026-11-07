@@ -43,6 +43,10 @@ Take a look at some of my games:
       <strong>TTT: Never Late Go to School</strong><br />
       <em>3D Parkour Platformer</em><br />
       Run, wall-run, and stomp your way through school before the gates close.<br />
+      <a href="https://youtu.be/RW8p1vei-D4">
+        <img src="https://img.youtube.com/vi/RW8p1vei-D4/hqdefault.jpg" alt="Watch TTT: Never Late Go to School gameplay" width="100%" />
+      </a><br />
+      <a href="https://youtu.be/RW8p1vei-D4">▶ Watch gameplay</a><br />
       <a href="https://paganisium.itch.io/ttt-never-late-go-to-school">Play on itch.io →</a>
     </td>
     <td width="50%" align="center">
@@ -65,6 +69,10 @@ Take a look at some of my games:
       <strong>PAK-MAD</strong><br />
       <em>2D Arcade</em><br />
       Help Mad, an astronaut, escape swarming ghosts in space.<br />
+      <a href="https://www.youtube.com/watch?v=Wj4OdOLshus">
+        <img src="https://img.youtube.com/vi/Wj4OdOLshus/hqdefault.jpg" alt="Watch PAK-MAD gameplay" width="100%" />
+      </a><br />
+      <a href="https://www.youtube.com/watch?v=Wj4OdOLshus">▶ Watch gameplay</a><br />
       <a href="https://madpakku.itch.io/pak-mad">Play on itch.io →</a>
     </td>
     <td width="50%" align="center">
@@ -75,6 +83,10 @@ Take a look at some of my games:
       <strong>Typeuran</strong><br />
       <em>Typing / Survival</em><br />
       Type customer orders quickly to keep the restaurant running.<br />
+      <a href="https://youtu.be/2v3Gprax4cs">
+        <img src="https://img.youtube.com/vi/2v3Gprax4cs/hqdefault.jpg" alt="Watch Typeuran gameplay" width="100%" />
+      </a><br />
+      <a href="https://youtu.be/2v3Gprax4cs">▶ Watch gameplay</a><br />
       <a href="https://norifumiii.itch.io/typeuran">Play on itch.io →</a>
     </td>
   </tr>

@@ -90,6 +90,28 @@ Take a look at some of my games:
       <a href="https://norifumiii.itch.io/typeuran">Play on itch.io →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://jeanmeme.itch.io/ayam-saurus">
+        <img src="https://img.itch.zone/aW1nLzI1NDQyOTYwLnBuZw==/315x250%23c/gFeFJ3.png" alt="Ayam Saurus cover" width="100%" />
+      </a>
+      <br />
+      <strong>Ayam Saurus</strong><br />
+      <em>2D Platformer / Puzzle</em><br />
+      Play as a chicken in this 2D platformer and puzzle game.<br />
+      <a href="https://jeanmeme.itch.io/ayam-saurus">Play on itch.io →</a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://madpakku.itch.io/fillo-keep-swimming">
+        <img src="https://img.itch.zone/aW1nLzI0NTM2ODIyLnBuZw==/original/iQc8cB.png" alt="Fillo Keep Swimming cover" width="100%" />
+      </a>
+      <br />
+      <strong>Fillo Keep Swimming</strong><br />
+      <em>2D Platformer</em><br />
+      Dodge obstacles above and below using only the spacebar.<br />
+      <a href="https://madpakku.itch.io/fillo-keep-swimming">Play on itch.io →</a>
+    </td>
+  </tr>
 </table>
 
 👉 *Discover more projects on my [Itch.io page](https://madpakku.itch.io)!*

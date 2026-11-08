@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Muchamad Fadlulloh 👋</h1>
 
 <p align="center">
-  <img src="assets/mad-neon.gif" alt="Animated neon MAD graphic" width="480" />
+  <img src="assets/mad-overshoot.gif" alt="Minimal MAD logo with overshoot animation" width="480" />
 </p>
 
 <p align="center">
